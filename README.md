@@ -46,3 +46,10 @@ Tests must be run before each commit.
 1. open repo folder with Visua Studio Code
 2. click `Terminal` -> `Run Task...`
 3. select `npm: test jest`
+
+#### Run VHDLFormatter on a file with Node.js
+1. go to the folder where the targeted .vhd file is
+  * if needed adapt the settings in the settings.json file
+2. open console
+3. run `node VHDLFormat file.vhd`
+
