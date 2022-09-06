@@ -1,0 +1,24 @@
+{
+    "RemoveComments": false,
+    "RemoveAsserts": false,
+    "CheckAlias": false,
+    "SignAlignSettings": {
+        "isRegional": false,
+        "isAll": true,
+        "mode": "",
+        "keyWords": [],
+        "alignComments": false
+    },
+    "KeywordCase": "UpperCase",
+    "TypeNameCase": "UpperCase",
+    "Indentation": "\t",
+    "NewLineSettings": {
+        "newLineAfter": [
+            ";",
+            "then"
+        ],
+        "noNewLineAfter": []
+    },
+    "EndOfLine": "\n",
+    "AddNewLine": true
+}
